@@ -2,9 +2,9 @@
 
 ### Data Analyst | Python, SQL, Tableau | 8+ years in HR, Recruitment, and B2B Sales
 
-I am a data analyst transitioning from 8+ years in HR, recruitment, and B2B sales into data analytics. Through an intensive Data Analytics and AI bootcamp I built hands on skill in Python, SQL, Tableau, dbt, and machine learning, applying the same stakeholder focus and analytical rigor I used in HR and sales to data problems.
+I spent 8 years on the other side of the dashboard: the recruiter waiting on headcount numbers, the sales rep chasing a pipeline report, the HR partner presenting turnover figures nobody questioned. That is exactly why I became a data analyst, not to learn a new tool, but to finally understand the ones I had been handed for years. I now build with Python, SQL, and Tableau, but the actual skill transfer is knowing what a decision maker needs to see, and asking what is behind the number before I chart it.
 
-Currently seeking a remote Data Analyst or People Analytics role in Germany, the US, or the UAE.
+Seeking a Data Analyst role, open to Business Analyst, BI Analyst, and Reporting Analyst titles, across any industry and any location, remote or onsite.
 
 ### Connect
 
