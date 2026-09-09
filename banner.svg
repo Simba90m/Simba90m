@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F1F3D"/>
+      <stop offset="100%" stop-color="#16294D"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#D4A017"/>
+      <stop offset="100%" stop-color="#F2C94C"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- faint grid lines, dashboard motif -->
+  <g stroke="#26365E" stroke-width="1">
+    <line x1="0" y1="70" x2="1200" y2="70"/>
+    <line x1="0" y1="140" x2="1200" y2="140"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+  </g>
+
+  <!-- rising line chart motif, right side -->
+  <g transform="translate(760,40)">
+    <polyline points="0,190 60,150 120,165 180,100 240,120 300,50 360,70 400,20"
+      fill="none" stroke="url(#lineGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="400" cy="20" r="6" fill="#F2C94C"/>
+    <g fill="#D4A017" opacity="0.85" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1">
+      <text x="0" y="215">HEADCOUNT</text>
+      <text x="150" y="215">PIPELINE</text>
+      <text x="300" y="215">RETENTION</text>
+    </g>
+  </g>
+
+  <!-- name and title -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="60" y="95" fill="#FFFFFF" font-size="42" font-weight="700" letter-spacing="1">MAHMOUD ABDELAZIZ</text>
+    <text x="60" y="130" fill="#F2C94C" font-size="20" font-weight="700" letter-spacing="3">DATA ANALYST  &#215;  HR &amp; PEOPLE INSIGHTS</text>
+    <text x="60" y="164" fill="#C7D0E3" font-size="16">Turning eight years of HR, recruitment, and sales operations into data driven decisions.</text>
+  </g>
+
+  <!-- tag pills -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600">
+    <g>
+      <rect x="60" y="188" width="72" height="30" rx="15" fill="#1F3560" stroke="#D4A017" stroke-width="1"/>
+      <text x="96" y="208" fill="#F2C94C" text-anchor="middle">Python</text>
+    </g>
+    <g>
+      <rect x="142" y="188" width="58" height="30" rx="15" fill="#1F3560" stroke="#D4A017" stroke-width="1"/>
+      <text x="171" y="208" fill="#F2C94C" text-anchor="middle">SQL</text>
+    </g>
+    <g>
+      <rect x="210" y="188" width="78" height="30" rx="15" fill="#1F3560" stroke="#D4A017" stroke-width="1"/>
+      <text x="249" y="208" fill="#F2C94C" text-anchor="middle">Tableau</text>
+    </g>
+    <g>
+      <rect x="298" y="188" width="58" height="30" rx="15" fill="#1F3560" stroke="#D4A017" stroke-width="1"/>
+      <text x="327" y="208" fill="#F2C94C" text-anchor="middle">dbt</text>
+    </g>
+  </g>
+
+  <!-- location line -->
+  <text x="60" y="250" fill="#8B98B8" font-family="Arial, Helvetica, sans-serif" font-size="14">Bremen, Germany &#183; open to relocation &amp; remote</text>
+
+  <!-- quote, bottom right -->
+  <text x="1140" y="250" fill="#8B98B8" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" text-anchor="end">"The number is not the answer, it's where the real question starts."</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F7F5EF"/>
+      <stop offset="100%" stop-color="#EFEBE0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="#FFFFFF"/>
+
+  <!-- left card: About me -->
+  <g>
+    <rect x="0" y="0" width="588" height="360" rx="18" fill="url(#cardbg)" stroke="#E3DCC7" stroke-width="1"/>
+    <text x="36" y="52" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#0F1F3D">&#9670; About me</text>
+
+    <text x="36" y="90" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">FROM HR TO DATA</text>
+
+    <text font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">
+      <tspan x="36" y="120">I spent 8 years on the other side of the dashboard: the</tspan>
+      <tspan x="36" y="144">recruiter waiting on headcount numbers, the sales rep</tspan>
+      <tspan x="36" y="168">chasing a pipeline report, the HR partner presenting</tspan>
+      <tspan x="36" y="192">turnover figures nobody questioned.</tspan>
+    </text>
+
+    <text font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">
+      <tspan x="36" y="228">Now I build with Python, SQL, and Tableau, but the real</tspan>
+      <tspan x="36" y="252">skill transfer is knowing what a decision maker needs to</tspan>
+      <tspan x="36" y="276">see, and asking what is behind the number first.</tspan>
+    </text>
+
+    <text x="36" y="320" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic" fill="#B8860B">"Same curiosity, more data."</text>
+  </g>
+
+  <!-- right card: Currently -->
+  <g>
+    <rect x="612" y="0" width="588" height="360" rx="18" fill="url(#cardbg)" stroke="#E3DCC7" stroke-width="1"/>
+    <text x="648" y="52" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#0F1F3D">&#9889; Currently...</text>
+
+    <text x="648" y="88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">WORKING ON</text>
+    <text x="648" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#0F1F3D">Tech Hiring &amp; Engineering Analytics</text>
+    <text x="648" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A6684">Third dashboard: time-to-hire, offer acceptance, pipeline conversion</text>
+
+    <text x="648" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">LEARNING</text>
+    <text x="648" y="190" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">Advanced SQL &#183; Streamlit &#183; dbt testing</text>
+
+    <text x="648" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">ASK ME ABOUT</text>
+    <text x="648" y="250" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">HR analytics &#183; Recruitment ops &#183; Career-change</text>
+    <text x="648" y="270" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">data storytelling</text>
+
+    <text x="648" y="308" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">FUN FACT</text>
+    <text x="648" y="330" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">I once grew a client base from 9 to 43 accounts.</text>
+    <text x="648" y="350" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">Now I grow query joins instead.</text>
+  </g>
+</svg>
