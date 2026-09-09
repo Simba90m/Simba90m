@@ -20,15 +20,10 @@
   </g>
 
   <!-- rising line chart motif, right side -->
-  <g transform="translate(760,40)">
-    <polyline points="0,190 60,150 120,165 180,100 240,120 300,50 360,70 400,20"
+  <g transform="translate(760,50)">
+    <polyline points="0,170 60,135 120,148 180,90 240,108 300,45 360,63 400,18"
       fill="none" stroke="url(#lineGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="400" cy="20" r="6" fill="#F2C94C"/>
-    <g fill="#D4A017" opacity="0.85" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1">
-      <text x="0" y="215">HEADCOUNT</text>
-      <text x="150" y="215">PIPELINE</text>
-      <text x="300" y="215">RETENTION</text>
-    </g>
+    <circle cx="400" cy="18" r="6" fill="#F2C94C"/>
   </g>
 
   <!-- name and title -->
