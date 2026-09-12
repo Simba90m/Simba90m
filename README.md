@@ -22,6 +22,8 @@
 
 **Logistics & Supply Chain Analytics: Atlas Global Logistics.** End-to-end supply chain analytics project for a fictional global logistics company, with a dbt pipeline, a real warehouse map, and a Tableau dashboard with cross-chart filter and highlight actions. [Tableau](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/AtlasGlobalLogistics/Dashboard1) &middot; [Streamlit](https://dashboardapppy-xrvbqn8vmudetwlephtaap.streamlit.app/) &middot; [Repo](https://github.com/Simba90m/logistics-supply-chain-atlas)
 
+**Tech Interview Outcomes.** Analysis of 10,174 real tech-industry interview records to find what predicts a "select" versus a "reject" decision, across 38 roles and 8 role families, with two real data quality issues found and disclosed rather than cleaned away silently. [Tableau](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/TechInterviewOutcomes/Dashboard1) &middot; [Streamlit](https://dashboardapppy-m3ffmk9mszcv7razlmbjbo.streamlit.app/) &middot; [Repo](https://github.com/Simba90m/tech-interview-outcomes)
+
 **Data Modeling with dbt.** Staging to marts pipelines across two schemas (shop_smart and northwind), with tests. See the [dbt_project_mahmoud](https://github.com/Simba90m/dbt_project_mahmoud) repo.
 
 **Airports, Flights and Weather Dashboard.** A Tableau dashboard analyzing flight delay and cancellation KPIs across routes and airlines. Published on my [Tableau Public profile](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/vizzes).
