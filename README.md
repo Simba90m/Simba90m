@@ -18,6 +18,8 @@
 
 ### Featured Projects
 
+**Worth the Investment? Premier League Recruitment Capstone.** Final bootcamp capstone, presented September 2026. Combined three real data sources (Transfermarkt values, Transfermarkt injuries, FBref performance) to test three recruitment hypotheses, and reported the results honestly, including a value-forecast model that failed its own backtest (22.7% directional accuracy, worse than a coin flip) and an injury-history signal that held up instead. [Repo](https://github.com/Simba90m/capstone_project_worth_the_investment_PL)
+
 **Workforce & HR Analytics Dashboard.** End-to-end HR analytics project covering the full pipeline from synthetic data through dbt staging and marts to a published Tableau dashboard, with a Streamlit companion app. [Tableau](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/WorkforceHRAnalytics/WorkforceOverview) &middot; [Streamlit](https://workforce-analytics-meridiangit-b5pvkjtuuvkafoczkghhhy.streamlit.app/) &middot; [Repo](https://github.com/Simba90m/workforce-analytics-meridian)
 
 **Logistics & Supply Chain Analytics: Atlas Global Logistics.** End-to-end supply chain analytics project for a fictional global logistics company, with a dbt pipeline, a real warehouse map, and a Tableau dashboard with cross-chart filter and highlight actions. [Tableau](https://public.tableau.com/app/profile/mahmoud.abdelaziz2733/viz/AtlasGlobalLogistics/Dashboard1) &middot; [Streamlit](https://dashboardapppy-xrvbqn8vmudetwlephtaap.streamlit.app/) &middot; [Repo](https://github.com/Simba90m/logistics-supply-chain-atlas)
@@ -31,8 +33,6 @@
 **Netflix Content Dashboard.** An interactive Tableau Public dashboard breaking down a content library by genre, release trend, and rating.
 
 **Muesli Sales Analysis.** Exploratory data analysis on sales data using Python, Pandas, Matplotlib, and Seaborn to surface performance trends.
-
-**Worth the Investment? Premier League Recruitment Capstone.** Final bootcamp capstone, presented September 2026. Combined three real data sources (Transfermarkt values, Transfermarkt injuries, FBref performance) to test three recruitment hypotheses, and reported the results honestly, including a value-forecast model that failed its own backtest (22.7% directional accuracy, worse than a coin flip) and an injury-history signal that held up instead. [Repo](https://github.com/Simba90m/capstone_project_worth_the_investment_PL)
 
 More detail on each project is in my resume and portfolio, linked above.
 
