@@ -32,7 +32,7 @@
 
 **Muesli Sales Analysis.** Exploratory data analysis on sales data using Python, Pandas, Matplotlib, and Seaborn to surface performance trends.
 
-**Premier League Recruitment Capstone, "Worth the Investment."** In progress. A forecasting model and dashboard identifying which players represent the best value relative to injury risk and expected performance.
+**Worth the Investment? Premier League Recruitment Capstone.** Final bootcamp capstone, presented September 2026. Combined three real data sources (Transfermarkt values, Transfermarkt injuries, FBref performance) to test three recruitment hypotheses, and reported the results honestly, including a value-forecast model that failed its own backtest (22.7% directional accuracy, worse than a coin flip) and an injury-history signal that held up instead. [Repo](https://github.com/Simba90m/capstone_project_worth_the_investment_PL)
 
 More detail on each project is in my resume and portfolio, linked above.
 

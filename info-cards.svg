@@ -36,12 +36,12 @@
     <rect x="612" y="0" width="588" height="360" rx="18" fill="url(#cardbg)" stroke="#E3DCC7" stroke-width="1"/>
     <text x="648" y="52" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#0F1F3D">&#9889; Currently...</text>
 
-    <text x="648" y="88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">WORKING ON</text>
-    <text x="648" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#0F1F3D">Tech Hiring &amp; Engineering Analytics</text>
-    <text x="648" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A6684">Third dashboard: time-to-hire, offer acceptance, pipeline conversion</text>
+    <text x="648" y="88" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">JUST FINISHED</text>
+    <text x="648" y="110" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#0F1F3D">Data Analytics &amp; AI Bootcamp, Sept 2026</text>
+    <text x="648" y="130" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#5A6684">Capstone: Premier League recruitment forecasting &amp; injury risk</text>
 
-    <text x="648" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">LEARNING</text>
-    <text x="648" y="190" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">Advanced SQL &#183; Streamlit &#183; dbt testing</text>
+    <text x="648" y="168" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">NOW</text>
+    <text x="648" y="190" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">Job hunting: Data, BI &amp; Business Analyst roles</text>
 
     <text x="648" y="228" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#B8860B">ASK ME ABOUT</text>
     <text x="648" y="250" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#26365E">HR analytics &#183; Recruitment ops &#183; Career-change</text>
